@@ -1,6 +1,6 @@
-# ACPlot
+# DSRC-plots
 
-This repository contains the Jupyter Notebooks used for plotting data related to my master's thesis. The notebooks include various graphs and visualizations that help illustrate the key findings and analyses of my research.
+This repository contains the Jupyter Notebooks used for plotting data related to my research field. The notebooks include various graphs and visualizations that help illustrate the key findings and analyses of my research.
 
 ## Contents
 
