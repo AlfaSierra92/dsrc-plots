@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ACPlot.iml" filepath="$PROJECT_DIR$/.idea/ACPlot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dsrc-plots.iml" filepath="$PROJECT_DIR$/.idea/dsrc-plots.iml" />
     </modules>
   </component>
 </project>
