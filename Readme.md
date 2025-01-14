@@ -11,6 +11,15 @@ This repository contains the Jupyter Notebooks used for plotting data related to
 - `T2_C1.ipynb`: Notebook for Topic 2, Case 1.
 - `T2_C2.ipynb`: Notebook for Topic 2, Case 2.
 
+### x.y.ipynb
+Tx tests with devices, changing TX power, placed near (source data into *Data59ghz* folder).
+
+### 59ghz_far
+Tx tests with devices, changing TX power, placed far (approx. 10 meters) (source data into *Data59ghz_far* folder).
+
+### Py_mcs
+Tx tests with devices, changing MCS, placed near (source data into *DataMCS* folder).
+
 ## Requirements
 
 To run the notebooks, you will need to install the following Python libraries:
